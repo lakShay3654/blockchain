@@ -98,9 +98,7 @@ ipfs daemon
 ```
 to use daemon
 
-![pic 3](https://github.com/user-attachments/assets/70fe107a-0780-4f92-a65e-724c1d8c426b)
-
-
+![Screenshot from 2025-05-18 14-53-02](https://github.com/user-attachments/assets/3ee28704-6e45-4bae-93c5-f064f50c3696)
 
 ```
 ipfs.log 2>&1 &
@@ -113,8 +111,8 @@ ipfs add hello.txt
 ipfs cat <CID>
 ```
 to add file
+![Screenshot from 2025-05-18 18-27-10](https://github.com/user-attachments/assets/1768019d-c4c3-4c68-9e84-d6659bbb11b6)
 
-![two](https://github.com/user-attachments/assets/a3498732-e133-41c6-a4f2-7b1e21234150)
 
 ```
 mkdir myfolder
@@ -124,7 +122,7 @@ ipfs add -r myfolder
 ```
 to add a directory
 
-![three](https://github.com/user-attachments/assets/4e0d51e5-ae0e-4034-b79d-fe3ac89a0666)
+![Screenshot from 2025-05-18 18-17-46](https://github.com/user-attachments/assets/c8cabc91-d041-4089-97c8-3a26308f4655)
 
 
 ```
@@ -148,8 +146,7 @@ openssl enc -d -aes-256-cbc -pbkdf2 -iter 100000 -in myfile_encrypted.txt -out d
 cat decrypted_file.txt
 ipfs add decrypted_file.txt
 ```
-
-![enc-dec](https://github.com/user-attachments/assets/293f1b3a-4ba4-4b35-8f04-d93fb9c9a6f7)
+![Screenshot from 2025-05-18 14-53-02](https://github.com/user-attachments/assets/eec98841-f5d2-4309-9f68-2e6079ebd277)
 
 
 ## to push video and audio
@@ -159,7 +156,7 @@ ipfs add <audio-path>
 ```
 to add audio
 
-![pic2](https://github.com/user-attachments/assets/23e5aa80-51d3-4f99-8daf-8e354b5c94d1)
+![Screenshot from 2025-05-18 18-31-54](https://github.com/user-attachments/assets/79bf8910-dfb3-428a-911a-07a1169c675f)
 
 
 
@@ -168,7 +165,8 @@ ipfs add <video-path>
 ```
 to add video
 
-![pic1](https://github.com/user-attachments/assets/bc6c1e37-bff7-45d7-b25a-61c80d6dbfb2)
+![Screenshot from 2025-05-18 18-33-10](https://github.com/user-attachments/assets/e68305d5-9634-4682-a265-d9a706d8e067)
+
 
 
 # Creating Meta Mask Account
